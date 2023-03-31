@@ -1,6 +1,6 @@
 # automatic-window-blind
 
-## Licence
+## License
 GPL 2.0
 
 ## What is this code?
