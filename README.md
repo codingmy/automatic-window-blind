@@ -1,5 +1,8 @@
 # automatic-window-blind
 
+## Licence
+GPL 2.0
+
 ## What is this code?
 this code make your window and blind to up and down automaticly.
 
